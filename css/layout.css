@@ -1,1 +1,2 @@
-body {background-color: pink}
+body {background-color: pink; padding:0;}
+#posterwall {width:10px; margin:auto; position:relative; background-color:black;}
