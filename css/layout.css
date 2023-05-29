@@ -1,2 +1,3 @@
 body {background-color: pink; padding:0; margin:0;}
-#posterwall {width:10px; margin:auto; position:relative; background-color:black;}
+#posterwall {width:1px; margin:auto; position:relative; background-color:black;}
+.poster {position:absolute;}
